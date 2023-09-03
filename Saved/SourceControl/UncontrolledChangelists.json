@@ -1,0 +1,34 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"/Users/beydasoyseven/Desktop/MarsMarine_UEProject/Content/Blueprints/Pawns/BP_Marine.uasset",
+				"/Users/beydasoyseven/Desktop/MarsMarine_UEProject/Content/Blueprints/Pawns/GameMode/BP_MarsMarine_GameMode.uasset",
+				"/Users/beydasoyseven/Desktop/MarsMarine_UEProject/Content/Levels/Mars.umap",
+				"/Users/beydasoyseven/Desktop/MarsMarine_UEProject/Content/Characters/Marine/Materials/M_Marine_Inst.uasset",
+				"/Users/beydasoyseven/Desktop/MarsMarine_UEProject/Content/Characters/Marine/Animations/AnimBP_Marine.uasset",
+				"/Users/beydasoyseven/Desktop/MarsMarine_UEProject/Content/Characters/Marine/Animations/Idle.uasset",
+				"/Users/beydasoyseven/Desktop/MarsMarine_UEProject/Content/Characters/Marine/Animations/Run_Fwd.uasset",
+				"/Users/beydasoyseven/Desktop/MarsMarine_UEProject/Content/Characters/Marine/Animations/MovementBlendSpace.uasset",
+				"/Users/beydasoyseven/Desktop/MarsMarine_UEProject/Content/Sounds/Weapon_AssaultRifle/Stereo/RifleFireLoop_Cue.uasset",
+				"/Users/beydasoyseven/Desktop/MarsMarine_UEProject/Content/Sounds/Weapon_AssaultRifle/Stereo/RifleFireEnd_Cue.uasset",
+				"/Users/beydasoyseven/Desktop/MarsMarine_UEProject/Content/UI/W_PlayerHUD.uasset",
+				"/Users/beydasoyseven/Desktop/MarsMarine_UEProject/Content/Blueprints/AI/BP_Alien.uasset",
+				"/Users/beydasoyseven/Desktop/MarsMarine_UEProject/Content/Characters/Enemy_Great_Spider/AnimBP_Alien.uasset",
+				"/Users/beydasoyseven/Desktop/MarsMarine_UEProject/Content/Characters/Enemy_Great_Spider/Animations/AlienAttack1.uasset",
+				"/Users/beydasoyseven/Desktop/MarsMarine_UEProject/Content/Characters/Enemy_Great_Spider/SK_Greater_Spider_Skeleton.uasset",
+				"/Users/beydasoyseven/Desktop/MarsMarine_UEProject/Content/Sounds/FoleyFlesh/Mono/FoleyFlesh_Gib_Cue.uasset",
+				"/Users/beydasoyseven/Desktop/MarsMarine_UEProject/Content/Characters/Enemy_Great_Spider/Animations/ExoGame_Greater_Spider_Death.uasset",
+				"/Users/beydasoyseven/Desktop/MarsMarine_UEProject/Content/Blueprints/GameMode/BP_MarsMarine_GameMode.uasset",
+				"/Users/beydasoyseven/Desktop/MarsMarine_UEProject/Content/Blueprints/Pickups/BP_HealthPickup.uasset",
+				"/Users/beydasoyseven/Desktop/MarsMarine_UEProject/Content/Blueprints/BP_MissionAreaVolume.uasset",
+				"/Users/beydasoyseven/Desktop/MarsMarine_UEProject/Content/Sounds/Weapon_AssaultRifle/Stereo/RifleFireLoop.uasset",
+				"/Users/beydasoyseven/Desktop/MarsMarine_UEProject/Content/Characters/Marine/Animations/BP_Marine.uasset",
+				"/Users/beydasoyseven/Desktop/MarsMarine_UEProject/Content/Blueprints/Pawns/GameMode/NewBlueprint.uasset"
+			]
+		}
+	]
+}
